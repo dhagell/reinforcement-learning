@@ -4,6 +4,8 @@ A complete library for reinforcement learning built entirely in Javascript es6!
 
 Specifically, This package implements methods to solve Markov Decision Processes using dynamic programming and iterative methods such as policy iteration and value iteration. Currently in early stages.
 
+see:
+https://danieltakeshi.github.io/2015-08-02-markov-decision-processes-and-reinforcement-learning/
 
 [![Build Status](https://travis-ci.org/rauljordan/montyhall.js.svg?branch=master)](https://travis-ci.org/rauljordan/montyhall.js)
 
